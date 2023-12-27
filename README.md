@@ -31,7 +31,7 @@ pip install mediapipe opencv-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/human-pose-tracking.git
+git clone https://github.com/your-username/human-pose-tracking.git](https://github.com/SHUDDHASHIL21/Human-Pose.git
 cd human-pose-tracking
 ```
 
@@ -44,23 +44,3 @@ python main.py
 3. Open the webcam or provide a video file path when prompted.
 
 4. Enjoy real-time human pose tracking!
-
-## Examples
-
-Include a few screenshots or GIFs showcasing the output of the human pose tracking in action.
-
-## Acknowledgments
-
-This project relies on the incredible work done by the developers of the MediaPipe library. Make sure to check out their documentation and resources.
-
-- [MediaPipe GitHub Repository](https://github.com/google/mediapipe)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contribution
-
-Contributions are welcome! If you have any ideas for improvement or find any issues, please open an [issue](https://github.com/your-username/human-pose-tracking/issues) or submit a pull request.
-
-Happy Coding!
